@@ -1,0 +1,1 @@
+score = int(input("Do you have a good credit score?. True/False"))
